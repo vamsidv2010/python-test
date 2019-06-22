@@ -10,6 +10,8 @@ def main():
     m,l,iter=iter_sample(it, n)
     
     
+    # added for testing the files in the code for the git hub files and there will be less commands to the list
+    
     print(m,l)
     for x in iter:
         print(x.value)
